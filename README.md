@@ -1,5 +1,5 @@
 # financial_model
-Financial model with data and visuals for 5-year projections
+A Financial Model with data and visuals for 5-year projections
 
 A financial model provides insights into a company's financial health and forecasts its future performance. Analyzing present data and making assumptions about factors like COGS, revenue, and schedules for loans, inventory, and depreciation helps map out the company's trajectory.
 
@@ -14,4 +14,5 @@ Ultimately, a financial model is more than just numbers—it's a narrative about
 Examples of the dashboard, financial statements, and schedules for inventory and depreciation.
 
 ![Financial Model 4](https://github.com/user-attachments/assets/b7879fbf-b017-4fc3-8b4c-7b980325201d)
+
 ![Financial Model 5](https://github.com/user-attachments/assets/b6bcab82-4317-434b-b2ee-c6e6393d5c3e)

@@ -11,7 +11,7 @@ Ultimately, a financial model is more than just numbers—it's a narrative about
 
 ![Financial Model 3](https://github.com/user-attachments/assets/bae946b1-c6d4-4945-ba72-92f4b02914aa)
 
-Below, you’ll find examples of the dashboard, financial statements, and schedules for inventory and depreciation.
+Examples of the dashboard, financial statements, and schedules for inventory and depreciation.
 
 ![Financial Model 4](https://github.com/user-attachments/assets/b7879fbf-b017-4fc3-8b4c-7b980325201d)
 ![Financial Model 5](https://github.com/user-attachments/assets/b6bcab82-4317-434b-b2ee-c6e6393d5c3e)
